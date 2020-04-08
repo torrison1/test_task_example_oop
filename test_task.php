@@ -1,7 +1,7 @@
 <?php
 
 // Make a code for situation:
-// Some man wants to travel 10 cities and have 5 tickets but all tickets have shuffled. How to sort tickets from start city to end city of travel ?
+// Some man wants to travel 10 cities and have all tickets but all tickets have shuffled. How to sort tickets from start city to end city of travel ?
 
 Class Situation {
 
